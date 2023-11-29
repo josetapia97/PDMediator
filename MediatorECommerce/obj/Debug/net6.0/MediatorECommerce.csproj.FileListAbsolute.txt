@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\MediatorECommerce\bin\Debug\net6.0\MediatorECommerce.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\MediatorECommerce\bin\Debug\net6.0\MediatorECommerce.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\MediatorECommerce\bin\Debug\net6.0\MediatorECommerce.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\MediatorECommerce\bin\Debug\net6.0\MediatorECommerce.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\MediatorECommerce\bin\Debug\net6.0\MediatorECommerce.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\MediatorECommerce\obj\Debug\net6.0\MediatorECommerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\MediatorECommerce\obj\Debug\net6.0\MediatorECommerce.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\MediatorECommerce\obj\Debug\net6.0\MediatorECommerce.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\MediatorECommerce\obj\Debug\net6.0\MediatorECommerce.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\MediatorECommerce\obj\Debug\net6.0\MediatorECommerce.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\MediatorECommerce\obj\Debug\net6.0\refint\MediatorECommerce.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\MediatorECommerce\obj\Debug\net6.0\MediatorECommerce.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\MediatorECommerce\obj\Debug\net6.0\MediatorECommerce.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\MediatorECommerce\obj\Debug\net6.0\ref\MediatorECommerce.dll
