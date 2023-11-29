@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\ControlTower\bin\Debug\net6.0\ControlTower.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\ControlTower\bin\Debug\net6.0\ControlTower.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\ControlTower\bin\Debug\net6.0\ControlTower.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\ControlTower\bin\Debug\net6.0\ControlTower.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\ControlTower\bin\Debug\net6.0\ControlTower.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\ControlTower\obj\Debug\net6.0\ControlTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\ControlTower\obj\Debug\net6.0\ControlTower.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\ControlTower\obj\Debug\net6.0\ControlTower.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\ControlTower\obj\Debug\net6.0\ControlTower.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\ControlTower\obj\Debug\net6.0\ControlTower.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\ControlTower\obj\Debug\net6.0\refint\ControlTower.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\ControlTower\obj\Debug\net6.0\ControlTower.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\ControlTower\obj\Debug\net6.0\ControlTower.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Mediator\ControlTower\obj\Debug\net6.0\ref\ControlTower.dll
